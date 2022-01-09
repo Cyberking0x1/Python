@@ -1,6 +1,6 @@
 # Python3
 
-                                                                Why Hackers And Penterster Need TCP Client.
+                               																	Why Hackers And Penterster Need TCP Client.
 
 TCP Client:
 
